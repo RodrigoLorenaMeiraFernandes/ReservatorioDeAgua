@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@400;700&family=Montserrat:ital,wght@1,600&family=Mulish:wght@500&family=Poppins:wght@400;700&display=swap');
+
+
+
+html {
+    background-image: url(assets/wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px auto;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+.container__block {
+    background: rgba(1, 111, 220, 0.357);
+    align-items: center;
+    text-align: center;
+    padding: 1px;
+    border-radius: 5px;
+    font-family: 'Mulish', sans-serif;
+    font-size: 30px;
+    margin-bottom: 2px;
+    margin-left: 10%;
+    width: 80%;
+    text-transform: uppercase;
+    font-weight: 900;
+    
+}
+
+
+.container__button {
+    border-radius: 5px;
+}
+
+
+.answer  {
+    background: rgb(1, 111, 220, 0.357);
+    align-items: center;
+    text-align: center;
+    padding: 1px;
+    padding-bottom: 20px;
+    border-radius: 5px;
+    font-family: 'Mulish', sans-serif;
+    width: 80%;
+    height: 40px;
+    margin-left: 10%;
+    margin-bottom: 10%;
+    font-weight: 900;
+
+}
